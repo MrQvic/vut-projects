@@ -1,5 +1,5 @@
 # vut-projects
-Rozcestník všech mých školních projektů na VUT
+Rozcestník mých školních projektů na VUT
 
 ## První semestr
 
