@@ -5,18 +5,21 @@ Rozcestník všech mých školních projektů na VUT
 
 ### IZP: Základy programování 
 
-- [C-programy](path): Programy, na kterých jsem se učil psát v C
-- [Projekt 1](path): Program pro kontrolu hesel, psaný v C
+- [Projekt 1](https://github.com/MrQvic/IZP-projekt): Program pro kontrolu hesel, psaný v C
 
 ## Druhý semestr
 
 ### IOS - Operační systémy
 
-- [Projekt 1](path): Bash script pro práci s textem 
+- [Projekt 1](https://github.com/MrQvic/IOS-projekt): Bash script pro práci s textem 
 
 ### IVS - Praktické aspekty vývoje software
 
-- [Projekt 1](path): Vývoj kalkulačky v pythonu
+- [Projekt 1](https://github.com/Radek-Janecka/IZPgang_Calculator): Vývoj kalkulačky v pythonu
+
+### INC - Návrh číslicových systémů 
+
+- [Projekt 1](https://github.com/MrQvic/INC-projekt): Číslicové systémy
 
 ## Třetí semestr
 
@@ -30,17 +33,17 @@ Rozcestník všech mých školních projektů na VUT
 
 ### ISS - Signály a systémy
 
-- [Projekt 1](path): Analýza EKG signálu
+- [Projekt 1](https://github.com/MrQvic/ISS-project): Analýza EKG signálu
 
 ### IFJ - Formální jazyky a překladače
 
-- [Projekt 1](path): PHP compiler
+- [Projekt 1](https://github.com/Nouzl0/IFJ-Projekt): PHP compiler
 
 ## Čtvrtý semestr
 
 ### IDS - Databázové systémy
 
-- [Projekt 1](path): Databáze MySQL
+- [Projekt 1](https://github.com/mstrlc/ids-project): Databáze MySQL
 
 ### IPK - Počítačové komunikace a sítě 
 
