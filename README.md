@@ -44,7 +44,7 @@ Rozcestník všech mých školních projektů na VUT
 
 ### IPK - Počítačové komunikace a sítě 
 
-- [Projekt 1](path): Klient kalkulačky
+- [Projekt 1](https://github.com/MrQvic/IPK-projekt): Klient kalkulačky
 
 ### IPP - Principy programovacích jazyků a OOP
 
