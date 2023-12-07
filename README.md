@@ -25,11 +25,11 @@ Rozcestník všech mých školních projektů na VUT
 
 ### INP - Návrh počítačových systémů 
 
-- [Projekt 1](path): Procesor napsaný ve VHDL pro jazyk Brainfuck
+- [Projekt 1](https://github.com/MrQvic/INP-projekt-1): Procesor napsaný ve VHDL pro jazyk Brainfuck
 
-- [Projekt 2](path): Vernamova šifra na architektuře MIPS64
+- [Projekt 2](https://github.com/MrQvic/INP-projekt-2): Vernamova šifra na architektuře MIPS64
 
-- [Projekt 2](path): Bubble sort na architektuře MIPS64
+- [Projekt 2](https://github.com/MrQvic/INP-projekt-2): Bubble sort na architektuře MIPS64
 
 ### ISS - Signály a systémy
 
