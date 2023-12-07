@@ -30,7 +30,7 @@ Rozcestník všech mých školních projektů na VUT
 
 ### ISS - Signály a systémy
 
-- [Projekt 1]([path](https://github.com/MrQvic/ISS-project)): Analýza EKG signálu
+- [Projekt 1](https://github.com/MrQvic/ISS-project): Analýza EKG signálu
 
 ### IFJ - Formální jazyky a překladače
 
