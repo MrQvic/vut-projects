@@ -48,4 +48,4 @@ Rozcestník všech mých školních projektů na VUT
 
 ### IPP - Principy programovacích jazyků a OOP
 
-- [Projekt 1](path): Parser a interpret jazyka IPPcode23
+- [Projekt 1](https://github.com/MrQvic/IPP-projekt): Parser a interpret jazyka IPPcode23
